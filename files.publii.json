@@ -1,0 +1,372 @@
+[
+    {
+        "path": "10-tips-on-how-to-maximize-device-performance-without-upgrading-for-faster-use.html",
+        "type": "file",
+        "md5": "23e9ee019c09fd4090539bf5b245abc3"
+    },
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "07a5b96eee4d88eebcd22be1dd0f8bc2"
+    },
+    {
+        "path": "about.html",
+        "type": "file",
+        "md5": "e08403c57c699146eb8decc1500359ad"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "20c63eb052ce015288b2bdf5841729f6"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "9ac3045b1a727c7938c187aa0847fb44"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/dynamic/fonts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/dynamic/fonts/jetbrainsmono",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/dynamic/fonts/jetbrainsmono/jetbrainsmono-italic.woff2",
+        "type": "file",
+        "md5": "ea0a62e6606b4f4b0d534256db7d31cf"
+    },
+    {
+        "path": "/assets/dynamic/fonts/jetbrainsmono/jetbrainsmono.woff2",
+        "type": "file",
+        "md5": "5affdf56bdbffc36af64d2616187b531"
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "51db36ac9bfaaa60d4fb7a583c143c99"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "c2232aa7558e9517946129d2a1b8c770"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "12d66f2b2cce51311dd05cef039befb6"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "d167697bcc673e5b8139fbdc5b9f5240"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/www051009",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/www051009/index.html",
+        "type": "file",
+        "md5": "d39d100ba6b87f2ccd664fb72d47c394"
+    },
+    {
+        "path": "authors/www051009/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/www051009/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/www051009/page/2/index.html",
+        "type": "file",
+        "md5": "9d8a2f34bc2e90c8ff404be7be6ca89d"
+    },
+    {
+        "path": "automation-for-all-easy-tech-solutions-to-simplify-your-life-and-boost-productivity.html",
+        "type": "file",
+        "md5": "ffda2e94588c5e5643199347d97984a5"
+    },
+    {
+        "path": "beginner-to-pro-master-smarter-digital-habits-for-enhanced-productivity-and-well-being.html",
+        "type": "file",
+        "md5": "1b3d6b279626bff62ebaa5d71cb75e3a"
+    },
+    {
+        "path": "boost-your-productivity-daily-tech-hacks-for-a-smarter-workflow-and-better-balance.html",
+        "type": "file",
+        "md5": "96c1201eb6891a6379f6526ef7346d5f"
+    },
+    {
+        "path": "contact.html",
+        "type": "file",
+        "md5": "be1c73fc45b636ab8cbe03440848169a"
+    },
+    {
+        "path": "embrace-the-future-adopting-emerging-tools-for-smarter-living-today.html",
+        "type": "file",
+        "md5": "9455d6332e509b6ad36fa5ea90a3d56c"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "3066c0ef47feaed6bab7c96f0b06c753"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "f02502501fd949637c069e837f414ffe"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "f15bbd821dd9245fe9865039f8373f3d"
+    },
+    {
+        "path": "master-your-space-file-management-tips-to-organize-your-digital-life-efficiently.html",
+        "type": "file",
+        "md5": "2aff434c22d9611aa2abb17592947f8f"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/authors/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/authors/1/cover.png",
+        "type": "file",
+        "md5": "bb7452c7113c3ca2fc2c6ed27255ec80"
+    },
+    {
+        "path": "media/authors/1/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/authors/1/responsive/cover-lg.png",
+        "type": "file",
+        "md5": "262d99860a071238cabab037c606e0a7"
+    },
+    {
+        "path": "/media/authors/1/responsive/cover-md.png",
+        "type": "file",
+        "md5": "f36b148704eac13bf13efa3b0ec37c45"
+    },
+    {
+        "path": "/media/authors/1/responsive/cover-sm.png",
+        "type": "file",
+        "md5": "f0a4a52d0a30094504739d3d42dd9c3a"
+    },
+    {
+        "path": "/media/authors/1/responsive/cover-xs.png",
+        "type": "file",
+        "md5": "794a132bcced129e9a16f751d5856798"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/cover-2.png",
+        "type": "file",
+        "md5": "bb7452c7113c3ca2fc2c6ed27255ec80"
+    },
+    {
+        "path": "/media/website/cover.png",
+        "type": "file",
+        "md5": "bb7452c7113c3ca2fc2c6ed27255ec80"
+    },
+    {
+        "path": "/media/website/favicon.ico",
+        "type": "file",
+        "md5": "aa392c13feb886c01bb85fba6b10effc"
+    },
+    {
+        "path": "/media/website/profile.png",
+        "type": "file",
+        "md5": "c7ebdaa44967261d64707ae9612a0c14"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/cover-2-lg.png",
+        "type": "file",
+        "md5": "262d99860a071238cabab037c606e0a7"
+    },
+    {
+        "path": "/media/website/responsive/cover-2-md.png",
+        "type": "file",
+        "md5": "f36b148704eac13bf13efa3b0ec37c45"
+    },
+    {
+        "path": "/media/website/responsive/cover-2-sm.png",
+        "type": "file",
+        "md5": "f0a4a52d0a30094504739d3d42dd9c3a"
+    },
+    {
+        "path": "/media/website/responsive/cover-2-xs.png",
+        "type": "file",
+        "md5": "361f312e3d4f7efc427a271df8a34972"
+    },
+    {
+        "path": "/media/website/responsive/cover-lg.png",
+        "type": "file",
+        "md5": "262d99860a071238cabab037c606e0a7"
+    },
+    {
+        "path": "/media/website/responsive/cover-md.png",
+        "type": "file",
+        "md5": "f36b148704eac13bf13efa3b0ec37c45"
+    },
+    {
+        "path": "/media/website/responsive/cover-sm.png",
+        "type": "file",
+        "md5": "f0a4a52d0a30094504739d3d42dd9c3a"
+    },
+    {
+        "path": "/media/website/responsive/cover-xs.png",
+        "type": "file",
+        "md5": "361f312e3d4f7efc427a271df8a34972"
+    },
+    {
+        "path": "/media/website/responsive/profile-lg.png",
+        "type": "file",
+        "md5": "7e8a6f71d877e85825c325869d56660f"
+    },
+    {
+        "path": "/media/website/responsive/profile-md.png",
+        "type": "file",
+        "md5": "703bc3248cf0f81caf4564f57daa856b"
+    },
+    {
+        "path": "/media/website/responsive/profile-sm.png",
+        "type": "file",
+        "md5": "5132d27880457668a4affd3ede7d241d"
+    },
+    {
+        "path": "/media/website/responsive/profile-xs.png",
+        "type": "file",
+        "md5": "d7987cbe99939ea4d8e33c6c37ee23db"
+    },
+    {
+        "path": "page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/2/index.html",
+        "type": "file",
+        "md5": "5a02f66507bacdbaa42e2323c2ffc3f3"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "ca5dff1f0271388ec9fb9a2652dfcab7"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "79c2d06ed29cb5ab57514be26d445184"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
+    },
+    {
+        "path": "stay-safe-and-smart-essential-cyber-hygiene-tips-for-modern-users.html",
+        "type": "file",
+        "md5": "499ed5757d21b7fca6236e5c7da3ce34"
+    },
+    {
+        "path": "streamline-your-workflow-essential-tech-tools-to-boost-efficiency-and-productivity.html",
+        "type": "file",
+        "md5": "50275b3c4ff7ef75628e940648fac71d"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "a3674688dee9cd32705ddd253b432e31"
+    },
+    {
+        "path": "tech-simplified-easy-strategies-for-everyday-users-to-master-complex-tools.html",
+        "type": "file",
+        "md5": "6ff7cad3d42bf2633c61dccf1b95ebff"
+    },
+    {
+        "path": "top-browser-extensions-that-save-you-time-and-stress-for-a-more-productive-online-experience.html",
+        "type": "file",
+        "md5": "6a9220b5adead351f72e657dbae2dbe4"
+    }
+]

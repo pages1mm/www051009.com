@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www051009.com/sitemap.xml
